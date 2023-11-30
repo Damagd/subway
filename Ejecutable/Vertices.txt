@@ -1,0 +1,128 @@
+Barranca del Muerto
+128
+570
+54039033
+Mixcoac
+130
+535
+54039033
+San Antonio
+135
+500
+54039033
+San Pedro de los Pinos
+140
+465
+54039033
+Tacubaya
+128
+430
+54039033
+Constituyentes
+120
+395
+54039033
+Auditorio
+118
+360
+54039033
+Polanco
+121
+325
+54039033
+San Joaquin
+119
+290
+54039033
+Tacuba
+125
+255
+54039033
+Refineria
+128
+220
+54039033
+Camarones
+130
+185
+54039033
+Aquiles Serdan
+110
+150
+54039033
+El Rosario
+105
+115
+54039033
+Tezozomoc
+140
+125
+2963683
+Azcapotzalco
+175
+135
+2963683
+Ferreria
+210
+132
+2963683
+Norte 45
+245
+138
+2963683
+Vallejo
+280
+132
+2963683
+Instituto del Petroleo
+315
+132
+2963683
+Lindavista
+350
+138
+2963683
+La Villa-Basilica
+385
+142
+2963683
+Martin Carrera
+420
+139
+2963683
+Talisman
+416
+174
+12502666
+Bondojito
+410
+209
+12502666
+Consulado
+408
+244
+12502666
+Canal del Norte
+406
+279
+12502666
+Morelos
+402
+314
+12502666
+Candelaria
+399
+349
+12502666
+Fray Servando
+397
+384
+12502666
+Jamaica
+398
+419
+12502666
+Santa Anita
+398
+454
+12502666

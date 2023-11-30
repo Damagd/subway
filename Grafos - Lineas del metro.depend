@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1573245203 source:d:\usb\estructuras de datos ii\grafos - lineas del metro\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string>
+	<time.h>
+
+1573234325 source:f:\usb\estructuras de datos ii\grafos - lineas del metro\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string>
+	<time.h>
+
+1573245203 source:d:\usb\estructuras de datos ii\grafos - lineas del metro\proyecto\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string>
+	<time.h>
+
